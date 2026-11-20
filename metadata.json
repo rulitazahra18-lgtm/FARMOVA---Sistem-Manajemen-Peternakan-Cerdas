@@ -1,0 +1,6 @@
+{
+  "name": "FARMOVA - Sistem Manajemen Peternakan Cerdas",
+  "description": "Platform digital modern terintegrasi untuk peternak cerdas: pemantauan populasi ternak dinamis, pencatatan produksi telur & susu, manajemen pakan & FCR, jadwal perawatan, keuangan, serta asisten AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
